@@ -16,7 +16,7 @@
 
   ### 👨‍💻 About Me:
   
-  I am a Junior FullStack Developer from Venezuela living in Spain.
+  Junior FullStack Developer from Venezuela living in Spain.
   
   - :telescope: I am a student of **Multiplatform Application Development** at CPR Daniel Castelao, and I am looking to enhance my knowledge as a programmer.
 
