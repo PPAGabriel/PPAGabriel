@@ -23,6 +23,8 @@
 - :seedling: Exploring new Technologies.
 
 - :zap: In my free time, I like to play some music with my guitar/piano.
+  
+-📫 How to reachme? [![Linkedin Badge](https://img.shields.io/badge/-GabrielPPA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielppa/)
 
 ---
 
